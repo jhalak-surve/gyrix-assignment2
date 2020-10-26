@@ -1,0 +1,35 @@
+.nav-link {
+    color: rgb(68, 7, 5);
+}
+
+.header {
+    
+    background:url(images/photo7.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 637px;
+    border: 1em solid white;
+    padding-top: 15px;
+}
+.feature-title {
+    color: rgb(3, 3, 3);
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 25px;
+}
+.features img {
+    -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    margin-bottom: 16px;
+    height: 150px;
+    width: inherit;
+}
+.features p{
+    text-align: justify;
+}
